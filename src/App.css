@@ -1,28 +1,29 @@
+html, body, #root, .App {
+  height: 100%;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 .App {
-  text-align: center;
+  background-color: #eaf7f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.AppContainer {
+  margin-bottom: 50px;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.ListView {
+  list-style-type: none;
+  padding-left: 0;
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.ListItem {
+  margin-bottom: 15px;
 }
