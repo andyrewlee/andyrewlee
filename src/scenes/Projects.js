@@ -15,12 +15,12 @@ export default class Projects extends Component {
             title="Bitbutter"
           />
           <ListItem
-            link="https://www.nooma.tv"
-            title="Nooma"
-          />
-          <ListItem
             link="https://www.youtube.com/watch?v=C6cqkNTq4Fg"
             title="Stats Royale integration"
+          />
+          <ListItem
+            link="https://www.nooma.tv"
+            title="Nooma"
           />
           <ListItem
             link="https://www.codingdojo.com/what-is-ios-development"
