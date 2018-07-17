@@ -19,7 +19,7 @@ export default class Projects extends Component {
             title="Stats Royale integration"
           />
           <ListItem
-            link="https://www.nooma.tv"
+            link="https://medium.com/@alexpark/goodbye-nooma-tv-67fa89ca863"
             title="Nooma"
           />
           <ListItem
