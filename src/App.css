@@ -1,5 +1,7 @@
 html, body, #root, .App {
   height: 100%;
+  font-family: monospace;
+  font-size: 16px;
 }
 
 a {
@@ -26,4 +28,8 @@ a {
 
 .ListItem {
   margin-bottom: 15px;
+}
+
+.Accent {
+  color: #fe6c23;
 }
