@@ -18,6 +18,10 @@ export default class Projects extends Component {
             link="https://www.nooma.tv"
             title="Nooma"
           />
+          <ListItem
+            link="https://www.codingdojo.com/what-is-ios-development"
+            title="iOS course"
+          />
         </ListView>
       </div>
     );
