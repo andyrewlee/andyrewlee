@@ -12,11 +12,11 @@ export default class Links extends Component {
         <ListView>
           <ListItem
             link="https://www.github.com/andyrewlee"
-            title="Github"
+            title="github"
           />
           <ListItem
             link="https://www.linkedin.com/in/andyrewlee"
-            title="Linkedin"
+            title="linkedin"
           />
         </ListView>
       </div>

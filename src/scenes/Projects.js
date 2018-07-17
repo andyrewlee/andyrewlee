@@ -12,19 +12,19 @@ export default class Projects extends Component {
         <ListView>
           <ListItem
             link="https://www.bitbutter.com"
-            title="Bitbutter"
+            title="bitbutter"
           />
           <ListItem
             link="https://www.youtube.com/watch?v=C6cqkNTq4Fg"
-            title="Stats Royale integration"
+            title="stats royale integration"
           />
           <ListItem
             link="https://medium.com/@alexpark/goodbye-nooma-tv-67fa89ca863"
-            title="Nooma"
+            title="nooma"
           />
           <ListItem
             link="https://www.codingdojo.com/what-is-ios-development"
-            title="iOS course"
+            title="ios course"
           />
         </ListView>
       </div>
