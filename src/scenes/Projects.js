@@ -11,6 +11,10 @@ export default class Projects extends Component {
         <SubHeader title="projects" />
         <ListView>
           <ListItem
+            link="https://www.cryptospace.io"
+            title="cryptospace"
+          />
+          <ListItem
             link="https://www.bitbutter.com"
             title="bitbutter"
           />
